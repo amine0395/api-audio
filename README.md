@@ -66,15 +66,15 @@ To use the API, send HTTP requests to the appropriate endpoints with the require
 
 - To retrieve fingerprint data:
 
-GET /fingerprint/<id>
+  GET /fingerprint/id
 
 - To retrieve waveform data:
 
-  GET /waveform/<id>
+  GET /waveform/id
 
 - To retrieve information about an audio title:
 
-  GET /info/<id>
+  GET /info/id
 
 - To retrieve all data:
 
